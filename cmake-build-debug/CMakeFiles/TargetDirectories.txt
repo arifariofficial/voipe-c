@@ -1,0 +1,3 @@
+/Users/ari/Desktop/voipe/voipe-c/cmake-build-debug/CMakeFiles/voipe_c.dir
+/Users/ari/Desktop/voipe/voipe-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ari/Desktop/voipe/voipe-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
